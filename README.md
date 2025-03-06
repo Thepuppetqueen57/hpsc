@@ -20,3 +20,10 @@
  Run hpsc (path to your folder)
 
  It will ask you some questions. Just answer those.
+
+# Rust rewrite maybe idk
+ This is really unstable on linux so I might make a rust rewrite :)
+
+ I might also not.
+
+ I have a bunch of projects I'm working on so probably not.
